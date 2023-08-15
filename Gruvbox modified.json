@@ -1,0 +1,39 @@
+{
+    "manifest": {
+        "author": "AutocraticKnoight#5734",
+        "name": "Gruvbox dark",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/360420923956002826\/885670847484932178\/Inconsolata_SemiCondensed-Medium.ttf"
+    },
+    "simple_colors": {
+        "background": -15263206,
+        "background_secondary": -14868447,
+        "accent": -12221048,
+        "statusbar": -15921649,
+        "mention_highlight": 1736417964,
+        "active_channel": -11515579
+    },
+    "colors": {
+        "primary_dark_660": -14671840,
+        "primary_dark_300": -1583187,
+        "primary_dark_700": -15921649,
+        "primary_700_alpha_60": -1583187,
+        "primary_dark_330": -10068908,
+        "uikit_btn_bg_color_selector_red": -3398627,
+        "uikit_settings_item_text_color_light": -12221048,
+        "primary_dark_360": -4148593,
+        "transparent": -14868447,
+        "brand_new_260": -2848868,
+        "primary_700": -13488081,
+        "link": -9921174,
+        "primary_dark_800": -14868447
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_dark_24dp": -7421828,
+        "ic_sidebar_notifications_on_dark_24dp": -2728690
+    },
+    "raws": {}
+}
