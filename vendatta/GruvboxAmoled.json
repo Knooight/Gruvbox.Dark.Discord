@@ -107,6 +107,9 @@
         ],
         "CHAT_BACKGROUND": [
             "#171a1a"
+        ],
+        "MENTION_FOREGROUND": [
+            "#B16286"
         ]
     },
 
