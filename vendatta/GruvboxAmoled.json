@@ -117,12 +117,16 @@
         "PRIMARY_600": "#171a1a",
         "PRIMARY_800": "#1d2021",
         "RED_400": "#cc241d",
+        "RED_430": "#cc241d",
+        "RED_460": "#cc241d",
         "YELLOW_300": "#7fa2ac"
     },
     
     "plus" : {
         "version": 0,
         "unreadBadgeColor": "#cc241d",
-        "customOverlays": true
-    }
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec":2
 }
