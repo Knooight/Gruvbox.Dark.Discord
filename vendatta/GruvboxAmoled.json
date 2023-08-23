@@ -87,6 +87,9 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#372E29"
         ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER":[
+            "#665654"
+        ],
         "CHANNELS_DEFAULT": [
             "#9E8376"
         ],
@@ -100,7 +103,7 @@
             "#110D0A"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#83a598"
         ],
         "CHAT_BACKGROUND": [
             "#171a1a"
