@@ -110,6 +110,9 @@
         ],
         "MENTION_FOREGROUND": [
             "#B16286"
+        ],
+        "MENTION_BACKGROUND": [
+            "#d4879c"
         ]
     },
 
