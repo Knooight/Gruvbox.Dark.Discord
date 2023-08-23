@@ -109,6 +109,7 @@
 
     "rawColors": {
         "PRIMARY_600": "#171a1a",
+        "PRIMARY_800": "#1d2021",
         "RED_400": "#cc241d"
     },
     
