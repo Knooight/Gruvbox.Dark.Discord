@@ -108,7 +108,7 @@
     },
     "plus" : {
         "version": 0,
-        "unreadBadgeColor": "cc241d",
+        "unreadBadgeColor": "#cc241d",
         "customOverlays": true
     }
 }
