@@ -111,9 +111,11 @@
     },
 
     "rawColors": {
+        "BRAND_260": "#b16286",
         "PRIMARY_600": "#171a1a",
         "PRIMARY_800": "#1d2021",
-        "RED_400": "#cc241d"
+        "RED_400": "#cc241d",
+        "YELLOW_300": "#677fa2ac"
     },
     
     "plus" : {
