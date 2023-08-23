@@ -106,6 +106,12 @@
             "#171a1a"
         ]
     },
+
+    "rawColors": {
+        "PRIMARY_600": "#171a1a",
+        "RED_400": "#b16286"
+    },
+    
     "plus" : {
         "version": 0,
         "unreadBadgeColor": "#cc241d",
