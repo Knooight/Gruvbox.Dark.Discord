@@ -58,7 +58,7 @@
             "#1d2021"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#32302f"
+            "#665c54"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#202020"
@@ -85,7 +85,7 @@
             "#DAC0B3"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#32302f"
+            "#665c54"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":[
             "#665654"
@@ -103,7 +103,7 @@
             "#1d2021"
         ],
         "CHANNEL_ICON": [
-            "#7fa2ac"
+            "#83a598"
         ],
         "CHAT_BACKGROUND": [
             "#171a1a"
