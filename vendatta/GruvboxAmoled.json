@@ -10,7 +10,7 @@
             "#83a598"
         ],
         "HEADER_SECONDARY": [
-            "#e7d7ad"
+            "#b29076"
         ],
         "TEXT_NORMAL": [
             "#ebdbb2"
@@ -122,7 +122,7 @@
         "BRAND_500": "#458588",
         "GREEN_360": "#689b6a",
         "PRIMARY_100": "#e7d7ad",
-        "PRIMARY_500": "#e7d7ad",
+        "PRIMARY_500": "#b29076",
         "PRIMARY_600": "#171a1a",
         "PRIMARY_800": "#1d2021",
         "RED_400": "#cc241d",
