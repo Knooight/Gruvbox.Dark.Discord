@@ -7,7 +7,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#7fa2ac"
+            "#83a598"
         ],
         "HEADER_SECONDARY": [
             "#e7d7ad"
@@ -55,10 +55,10 @@
             "#171a1a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#1d2021"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#32302f"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#202020"
@@ -67,7 +67,7 @@
             "#677fa2ac"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#504945"
+            "#32302f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#202020"
@@ -85,13 +85,13 @@
             "#DAC0B3"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#32302f"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":[
             "#665654"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#32302f"
         ],
         "TEXT_LINK": [
             "#8ec07c"
@@ -100,10 +100,10 @@
             "#cc241d"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#1d2021"
         ],
         "CHANNEL_ICON": [
-            "#83a598"
+            "#7fa2ac"
         ],
         "CHAT_BACKGROUND": [
             "#171a1a"
@@ -121,6 +121,7 @@
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
         "GREEN_360": "#689b6a",
+        "PRIMARY_100": "#1aa239",
         "PRIMARY_500": "#e7d7ad",
         "PRIMARY_600": "#171a1a",
         "PRIMARY_800": "#1d2021",
@@ -135,6 +136,11 @@
         "version": 0,
         "unreadBadgeColor": "#cc241d",
         "customOverlays": true,
+        "icons": {
+            "ic_new_pins": [
+                "#1aa239"
+            ]
+        },
         "iconpack":"rosiecord-plumpy"
     },
     "spec":2
