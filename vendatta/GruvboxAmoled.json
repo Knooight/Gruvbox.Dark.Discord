@@ -58,10 +58,10 @@
             "#1d2021"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#665c54"
+            "#504945 "
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#202020"
+            "#242424"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#677fa2ac"
@@ -91,7 +91,7 @@
             "#665654"
         ],
         "CHANNELS_DEFAULT": [
-            "#32302f"
+            "#b29076"
         ],
         "TEXT_LINK": [
             "#8ec07c"
@@ -121,7 +121,7 @@
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
         "GREEN_360": "#689b6a",
-        "PRIMARY_100": "#1aa239",
+        "PRIMARY_100": "#e7d7ad",
         "PRIMARY_500": "#e7d7ad",
         "PRIMARY_600": "#171a1a",
         "PRIMARY_800": "#1d2021",
