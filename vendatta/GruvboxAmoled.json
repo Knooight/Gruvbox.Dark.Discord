@@ -87,7 +87,7 @@
         "CHANNELTEXTAREA_BACKGROUND": [
             "#665c54"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER":[
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#665654"
         ],
         "CHANNELS_DEFAULT": [
@@ -115,7 +115,6 @@
             "#d194a4"
         ]
     },
-
     "rawColors": {
         "BRAND_260": "#b16286",
         "BRAND_360": "#b16286",
@@ -133,17 +132,18 @@
         "WHITE_500": "#e7d7ad",
         "YELLOW_300": "#7fa2ac"
     },
-    
-    "plus" : {
+    "plus": {
         "version": 0,
-        "unreadBadgeColor": "#cc241d",
-        "customOverlays": true,
+        "iconpack": "rosiecord-plumpy",
         "icons": {
-            "ic_new_pins": [
-                "#fb4934"
-            ]
-        },
-        "iconpack":"rosiecord-plumpy"
+            "ic_new_pins": "#fb4934",
+            "StatusIdle": "#eebd35",
+            "StatusDND": "#cc241d",
+            "StatusOnline": "#8ec07c",
+            "StatusMobileOnline": "#689d6a",
+            "StatusOffline": "#6e6a86",
+            "StatusStreaming": "#7fa2ac"
+        }
     },
-    "spec":2
+    "spec": 2
 }
