@@ -2,7 +2,7 @@
     "name": "Gruvbox Amoled",
     "authors": [
         {
-            "name": "autocraticknoight"
+            "name": "annoying"
         }
     ],
     "semanticColors": {
@@ -34,7 +34,7 @@
             "#171a1a"
         ],
         "BACKGROUND_SECONDARY": [
-            "#282828"
+            "#1f9231"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#202020"
@@ -122,6 +122,12 @@
         "BRAND_260": "#b16286",
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
+        "PRIMARY_100": "#e7d7ad",
+        "PRIMARY_230": "#e7d7ad",
+        "PRIMARY_400": "#b16286",
+        "PRIMARY_500": "#b29076",
+        "PRIMARY_600": "#171a1a",
+        "PRIMARY_800": "#1d2021",
         "GREEN_100": "#689b6a",
         "GREEN_130": "#689b6a",
         "GREEN_160": "#689b6a",
@@ -148,12 +154,6 @@
         "GREEN_830": "#689b6a",
         "GREEN_860": "#689b6a",
         "GREEN_900": "#689b6a",
-        "PRIMARY_100": "#e7d7ad",
-        "PRIMARY_230": "#e7d7ad",
-        "PRIMARY_400": "#b16286",
-        "PRIMARY_500": "#b29076",
-        "PRIMARY_600": "#171a1a",
-        "PRIMARY_800": "#1d2021",
         "RED_400": "#cc241d",
         "RED_430": "#cc241d",
         "RED_460": "#cc241d",
