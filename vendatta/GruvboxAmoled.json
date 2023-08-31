@@ -84,6 +84,9 @@
         "SCROLLBAR_AUTO_TRACK": [
             "#DAC0B3"
         ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#340da3"
+        ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#665c54"
         ],
@@ -119,7 +122,32 @@
         "BRAND_260": "#b16286",
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
-        "GREEN_360": "#689b6a",
+        "GREEN_100": "##689b6a",
+        "GREEN_130": "##689b6a",
+        "GREEN_160": "##689b6a",
+        "GREEN_200": "##689b6a",
+        "GREEN_230": "##689b6a",
+        "GREEN_260": "##689b6a",
+        "GREEN_300": "##689b6a",
+        "GREEN_330": "##689b6a",
+        "GREEN_345": "##689b6a",
+        "GREEN_360": "##689b6a",
+        "GREEN_400": "##689b6a",
+        "GREEN_430": "##689b6a",
+        "GREEN_460": "##689b6a",
+        "GREEN_500": "##689b6a",
+        "GREEN_530": "##689b6a",
+        "GREEN_560": "##689b6a",
+        "GREEN_600": "##689b6a",
+        "GREEN_630": "##689b6a",
+        "GREEN_660": "##689b6a",
+        "GREEN_700": "##689b6a",
+        "GREEN_730": "##689b6a",
+        "GREEN_760": "##689b6a",
+        "GREEN_800": "##689b6a",
+        "GREEN_830": "##689b6a",
+        "GREEN_860": "##689b6a",
+        "GREEN_900": "##689b6a",
         "PRIMARY_100": "#e7d7ad",
         "PRIMARY_230": "#e7d7ad",
         "PRIMARY_400": "#b16286",
