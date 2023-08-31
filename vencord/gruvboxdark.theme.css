@@ -16,23 +16,23 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
-  --accentcolor: rgb(69,133,136);
-  --accentcolor2: rgb(127,162,172);
-  --linkcolor: rgb(104,157,106);
-  --mentioncolor: rgb(250,166,26);
-  --textbrightest: rgb(69,133,136);
-  --textbrighter: rgb(138,130,130);
-  --textbright: rgb(255,255,255);
-  --textdark: rgb(231,215,173);
-  --textdarker: rgb(115,115,115);
-  --textdarkest: rgb(80,80,80);
+  --accentcolor: 69,133,136;
+  --accentcolor2: 127,162,172;
+  --linkcolor: 104,157,106;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 69,133,136;
+  --textbrighter: 138,130,130;
+  --textbright: 255,255,255;
+  --textdark: 231,215,173;
+  --textdarker: 115,115,115;
+  --textdarkest: 80,80,80;
   --font: Inconsolata;
-  --backgroundaccent: rgb(80,73,69);
-  --backgroundprimary: rgb(32,32,32);
-  --backgroundsecondary: rgb(23,26,26);
-  --backgroundsecondaryalt: rgb(0,0,0);
-  --backgroundtertiary: rgb(13,14,15);
-  --backgroundfloating: rgb(0,0,0);
+  --backgroundaccent: 80,73,69;
+  --backgroundprimary: 32,32,32;
+  --backgroundsecondary: 23,26,26;
+  --backgroundsecondaryalt: 0,0,0;
+  --backgroundtertiary: 13,14,15;
+  --backgroundfloating: 0,0,0;
   --settingsicons: 1;
 }
 
