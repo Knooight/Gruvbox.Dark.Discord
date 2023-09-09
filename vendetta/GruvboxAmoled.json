@@ -8,7 +8,8 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#83a598"
+            "#83a598",
+            "#266b79"
         ],
         "HEADER_SECONDARY": [
             "#665c54"
@@ -41,7 +42,8 @@
             "#202020"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0d0e0f"
+            "#0d0e0f",
+            "#d5c4a1"
         ],
         "BACKGROUND_ACCENT": [
             "#458588"
@@ -107,7 +109,8 @@
             "#1d2021"
         ],
         "CHANNEL_ICON": [
-            "#83a598"
+            "#83a598",
+            "#266b79"
         ],
         "CHAT_BACKGROUND": [
             "#171a1a"
