@@ -21,13 +21,15 @@
             "#665c54"
         ],
         "INTERACTIVE_NORMAL": [
-            "#e7d7ad"
+            "#e7d7ad",
+            "#7c6f64"
         ],
         "INTERACTIVE_HOVER": [
             "#503E38"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ebdbb2"
+            "#ebdbb2",
+            "#3c3836"
         ],
         "INTERACTIVE_MUTED": [
             "#665c54"
@@ -116,7 +118,8 @@
             "#266b79"
         ],
         "CHAT_BACKGROUND": [
-            "#171a1a"
+            "#171a1a",
+            "#dac9a5"
         ],
         "MENTION_FOREGROUND": [
             "#ab547b"
