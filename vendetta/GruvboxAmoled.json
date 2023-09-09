@@ -108,14 +108,16 @@
             "#b29076"
         ],
         "TEXT_LINK": [
-            "#8ec07c"
+            "#8ec07c",
+            "#ae5858"
         ],
         "TEXT_DANGER": [
             "#cc241d",
             "#9d0006"
         ],
         "KEYBOARD": [
-            "#1d2021"
+            "#1d2021",
+            "#ae5858"
         ],
         "CHANNEL_ICON": [
             "#83a598",
