@@ -99,11 +99,12 @@
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#340da3"
         ],
-        "CHANNELTEXTAREA_BACKGROUND": [
+        "CHANNEL_TEXT_AREA_BACKGROUND": [
             "#665c54"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#665654"
+            "#665654",
+            "#7c6f64"
         ],
         "ACTIVITY_CARD_BACKGROUND": [
             "#af2528",
@@ -143,6 +144,7 @@
         "BRAND_260": "#b16286",
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
+        "BLACK_500": "#ae5858",
         "PRIMARY_100": "#e7d7ad",
         "PRIMARY_230": "#e7d7ad",
         "PRIMARY_400": "#ab547b",
