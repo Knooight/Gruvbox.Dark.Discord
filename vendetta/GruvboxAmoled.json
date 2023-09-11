@@ -84,6 +84,14 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#202020"
         ],
+        "CARD_PRIMARY_BG": [  
+             "#1d2021",  
+             "#ecf2f8"  
+        ], 
+        "CARD_SECONDARY_BG": [  
+             "#171a1a",  
+             "#ecf2f8"  
+        ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
         ],
@@ -141,7 +149,6 @@
         ]
     },
     "rawColors": {
-        "BRAND_260": "#b16286",
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
         "PRIMARY_100": "#e7d7ad",
