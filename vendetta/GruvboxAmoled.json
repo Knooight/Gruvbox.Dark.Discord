@@ -85,11 +85,11 @@
             "#202020"
         ],
         "CARD_PRIMARY_BG": [  
-             "#1d2021",  
+             "#171a1a",  
              "#ecf2f8"  
         ], 
         "CARD_SECONDARY_BG": [  
-             "#171a1a",  
+             "#1d2021",  
              "#ecf2f8"  
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -156,6 +156,7 @@
         "PRIMARY_400": "#ab547b",
         "PRIMARY_500": "#b29076",
         "PRIMARY_600": "#171a1a",
+        "PRIMARY_630": "#1d2021",
         "PRIMARY_700": "#1d2021",
         "PRIMARY_760": "#171a1a",
         "PRIMARY_800": "#171a1a",
