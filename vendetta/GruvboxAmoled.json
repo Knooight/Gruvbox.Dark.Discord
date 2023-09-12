@@ -86,11 +86,11 @@
         ],
         "CARD_PRIMARY_BG": [  
              "#171a1a",  
-             "#ecf2f8"  
+             "#d5c4a1"  
         ], 
         "CARD_SECONDARY_BG": [  
              "#1d2021",  
-             "#ecf2f8"  
+             "#f2e5bc"  
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -105,7 +105,7 @@
             "#DAC0B3"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#340da3"
+            "#202020"
         ],
         "CHANNEL_TEXT_AREA_BACKGROUND": [
             "#665c54"
@@ -149,6 +149,7 @@
         ]
     },
     "rawColors": {
+        "BRAND_260": "#83a598",
         "BRAND_360": "#b16286",
         "BRAND_500": "#458588",
         "PRIMARY_100": "#e7d7ad",
