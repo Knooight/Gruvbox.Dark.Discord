@@ -121,6 +121,9 @@
         "CHANNELS_DEFAULT": [
             "#b29076"
         ],
+        "HOME_BACKGROUND": [
+            "#1d2021"
+        ],
         "TEXT_LINK": [
             "#8ec07c",
             "#11a4d4"
@@ -146,6 +149,9 @@
         ],
         "MENTION_BACKGROUND": [
             "#d194a4"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1d2021"
         ]
     },
     "rawColors": {
@@ -191,7 +197,8 @@
         "RED_430": "#cc241d",
         "RED_460": "#cc241d",
         "WHITE_500": "#e7d7ad",
-        "YELLOW_300": "#7fa2ac"
+        "YELLOW_300": "#7fa2ac",
+        "GUILD_BOOSTING_PINK" : "#eb6f92"
     },
     "plus": {
         "version": 0,
