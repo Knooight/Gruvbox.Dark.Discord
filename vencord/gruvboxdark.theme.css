@@ -52,3 +52,16 @@
   border: 1px solid var(--accentcolor); 
   border-radius: 5px;
 }
+
+/*buttons*/
+
+.lookFilled-1H2Jvj.colorRed-2VFhM4,
+.lookOutlined-3RTC7c.colorRed-2VFhM4 {
+    background-color: var(--backgroundsecondary) !important;
+    border: solid 2px;
+    border-radius: 18px;
+    border-color: white;
+    color: white;
+    text-align: center;
+    transition: 0.9s;
+}
