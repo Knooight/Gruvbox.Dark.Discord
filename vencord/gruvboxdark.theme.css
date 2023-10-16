@@ -42,4 +42,13 @@
 
 /* Any custom CSS below here */
 
+.container-ZMc96U.themed-Hp1KC_, .messagesPopoutWrap-3zryHW, .sidebarRegionScroller-FXiQOh, .wrapper-1gVUIN.minimum-fXpVNc, .drawerSizingWrapper-1txdWG, .browser-mnQ1T7, .grid-1aWVsE, .resultsGroup-cfY57t, .newMessagesBar-1hF-9G, .wrapper-2vIMkT, 
+.full-motion .translate-2vghI-.didRender-2dwLEv  {
+  backdrop-filter: blur(5px);
+}
 
+.drawerSizingWrapper-1txdWG, .browser-mnQ1T7, .container-2rzKKA, .resultsGroup-cfY57t,
+.full-motion .translate-2vghI-.didRender-2dwLEv, .messagesPopoutWrap-3zryHW  {
+  border: 1px solid var(--accentcolor); 
+  border-radius: 5px;
+}
